@@ -1,2 +1,1 @@
-# learningGitKraken
-Learning gitKraken
+A lot to learn
